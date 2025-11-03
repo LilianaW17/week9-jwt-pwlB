@@ -2,8 +2,6 @@
 
 node_modules/
 
-screenshots/
-
 *.log
 npm-debug.log*
 
